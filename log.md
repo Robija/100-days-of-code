@@ -17,3 +17,9 @@
 **Thoughts**: Rebuild the UI and insert an insert field for a city name, longitude and latitude as the next step.
 
 **Link to work:** [LLWeather Pen](http://codepen.io/Robija/pen/WxGPJy)
+
+### Day 6: June 29, 2016 
+
+**Today's Progress**: Redesigned a part of the UI.
+
+**Thoughts**: Finish the UI and with it the challenge
