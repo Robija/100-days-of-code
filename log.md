@@ -23,3 +23,15 @@
 **Today's Progress**: Redesigned a part of the UI.
 
 **Thoughts**: Finish the UI and with it the challenge
+
+### Day 7: July 02, 2016 
+
+**Today's Progress**: Added placeholders for city, country and temperature.
+
+**Thoughts**: Add placeholder for weather icon and temperature unit change button. 
+
+### Day : July 00, 2016 
+
+**Today's Progress**: 
+
+**Thoughts**: 
